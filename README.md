@@ -8,5 +8,10 @@ VERSION: 0.0.6
 
 ## Project Description
 
-Supply a wrapper ``StockDataFrame`` for ``pandas.DataFrame`` with inline stock
-statistics/indicators support.
+# Generate actionable sports and betting analytics using XGBoost Classifiers and Markov-Decision Processes
+
+Included Sports and Competitions: 
+
+* ATP(https://github.com/MartinMashalov/SportsAnalytics/tree/main/ATP)
+* NFL(https://github.com/MartinMashalov/SportsAnalytics/tree/main/NFL)
+* WTA(https://github.com/MartinMashalov/SportsAnalytics/tree/main/ATP)

@@ -12,6 +12,6 @@ VERSION: 0.0.6
 
 Included Sports and Competitions: 
 
-* ATP(https://github.com/MartinMashalov/SportsAnalytics/tree/main/ATP)
-* NFL(https://github.com/MartinMashalov/SportsAnalytics/tree/main/NFL)
-* WTA(https://github.com/MartinMashalov/SportsAnalytics/tree/main/ATP)
+* [ATP](https://github.com/MartinMashalov/SportsAnalytics/tree/main/ATP)
+* [NFL](https://github.com/MartinMashalov/SportsAnalytics/tree/main/NFL)
+* [WTA](https://github.com/MartinMashalov/SportsAnalytics/tree/main/ATP)
